@@ -1,7 +1,5 @@
-import random
-import tkinter as tK
+name = 
+print("Hey, whats your name?")
+input()
 
 
-print ('Roll Dice!')
-D20 = random.randint(1, 20)
-print(D20)
