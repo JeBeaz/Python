@@ -6,8 +6,6 @@ while True:
     print("What Do You Want To Eat?")
     Dinner_List = ("StirFry", "TacoSalad", "Burgers with", "Curry", "Steak with", "Wings with","Chicken with")
     Veggie_List = (" Brocoli", " Corn", "Carrots", " Brussel Sprouts", " Zucchini", " Asparagus")
-    Dinner_Tonight = (Dinner_List)
-    Veggie_Tonight = (Veggie_List)
 
     user_action = input('Pick a number between 1 - 5:')
     possible_actions = ("Burgers with", "Steak with", "Wings with", "Chicken with",)

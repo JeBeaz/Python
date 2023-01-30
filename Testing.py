@@ -1,5 +1,5 @@
-name = 
-print("Hey, whats your name?")
-input()
+import random
+
+dice = (0,20)
 
 
